@@ -1,29 +1,21 @@
-import java.util.HashMap;
-
 class Solution {
     public boolean wordPattern(String pattern, String s) {
         String[] words = s.split(" ");
-        if (pattern.length() != words.length) {
-            return false;
-        }
+        if (pattern.length() != words.length) return false;
 
-        HashMap<Character, String> charToWord = new HashMap<>();
-        HashMap<String, Character> wordToChar = new HashMap<>();
+        HashMap<Character, String> map = new HashMap<>();
+        HashSet<String> used = new HashSet<>();
 
         for (int i = 0; i < pattern.length(); i++) {
             char c = pattern.charAt(i);
-            String word = words[i];
+            String w = words[i];
 
-            if (charToWord.containsKey(c)) {
-                if (!charToWord.get(c).equals(word)) {
-                    return false;
-                }
+            if (map.containsKey(c)) {
+                if (!map.get(c).equals(w)) return false;
             } else {
-                if (wordToChar.containsKey(word)) {
-                    return false;
-                }
-                charToWord.put(c, word);
-                wordToChar.put(word, c);
+                if (used.contains(w)) return false;
+                map.put(c, w);
+                used.add(w);
             }
         }
 
