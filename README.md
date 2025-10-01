@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/venu0807/Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
