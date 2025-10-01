@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venu0807/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/venu0807/Leetcode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
+| [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
