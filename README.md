@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venu0807/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/venu0807/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
@@ -217,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
