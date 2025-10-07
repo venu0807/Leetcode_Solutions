@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/venu0807/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/venu0807/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/venu0807/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/venu0807/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/venu0807/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
@@ -289,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/venu0807/Leetcode/tree/master/1013-fibonacci-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
