@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/venu0807/Leetcode/tree/master/0412-fizz-buzz) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venu0807/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/venu0807/Leetcode/tree/master/1212-sequential-digits) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Stack
 |  |
 | ------- |
@@ -370,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/venu0807/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/venu0807/Leetcode/tree/master/0077-combinations) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
