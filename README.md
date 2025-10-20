@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/venu0807/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venu0807/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/venu0807/Leetcode/tree/master/0392-is-subsequence) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/venu0807/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/venu0807/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
