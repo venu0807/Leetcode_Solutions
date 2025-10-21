@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venu0807/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/venu0807/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/venu0807/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/venu0807/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/venu0807/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/venu0807/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/venu0807/Leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venu0807/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
