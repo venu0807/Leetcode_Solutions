@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/venu0807/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
