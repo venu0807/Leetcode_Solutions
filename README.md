@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venu0807/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/venu0807/Leetcode/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/venu0807/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/venu0807/Leetcode/tree/master/1013-fibonacci-number) |
 ## Merge Sort
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
