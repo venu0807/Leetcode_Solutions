@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venu0807/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/venu0807/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
