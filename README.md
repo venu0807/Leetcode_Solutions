@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/venu0807/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/venu0807/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/venu0807/Leetcode/tree/master/0319-bulb-switcher) |
+| [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/venu0807/Leetcode/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/venu0807/Leetcode/tree/master/1013-fibonacci-number) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 ## Memoization
 |  |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/venu0807/Leetcode/tree/master/0319-bulb-switcher) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
