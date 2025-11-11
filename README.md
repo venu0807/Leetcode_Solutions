@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/venu0807/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venu0807/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/venu0807/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/venu0807/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/venu0807/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venu0807/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venu0807/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/venu0807/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venu0807/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search Tree
 |  |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/venu0807/Leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/venu0807/Leetcode/tree/master/1212-sequential-digits) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -514,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/venu0807/Leetcode/tree/master/0077-combinations) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
