@@ -1,15 +1,22 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for(int i = 0;i <nums.length;i++){
-            int index = Math.abs(nums[i]) -1;
-            if(nums[index] > 0) nums[index] = -1 * nums[index];
+        // Mark numbers as seen by making the value at corresponding indices negative
+        for (int i = 0; i < nums.length; i++) {
+            int index = Math.abs(nums[i]) - 1;
+            nums[index] = -Math.abs(nums[index]);
         }
-        for(int i = 0;i<nums.length;i++){
-            if(nums[i] > 0){
-                list.add(i + 1);
+
+        // Collect all indices with positive values, these correspond to missing numbers
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                result.add(i + 1);
             }
         }
-        return list;
+
+        return result;
     }
 }
