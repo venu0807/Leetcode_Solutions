@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/venu0807/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/venu0807/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/venu0807/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/venu0807/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/venu0807/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/venu0807/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venu0807/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
