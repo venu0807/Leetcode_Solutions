@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venu0807/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/venu0807/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venu0807/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -531,11 +532,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/venu0807/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/venu0807/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venu0807/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/venu0807/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/venu0807/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
