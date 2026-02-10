@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/venu0807/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/venu0807/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venu0807/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
+| [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/venu0807/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venu0807/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/venu0807/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venu0807/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venu0807/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
 | [1324-where-will-the-ball-fall](https://github.com/venu0807/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1677-matrix-diagonal-sum](https://github.com/venu0807/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
 | ------- |
