@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/venu0807/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/venu0807/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/venu0807/Leetcode/tree/master/1013-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venu0807/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/venu0807/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venu0807/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venu0807/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/venu0807/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/venu0807/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/venu0807/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/venu0807/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/venu0807/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/venu0807/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venu0807/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/venu0807/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
