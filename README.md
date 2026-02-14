@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/venu0807/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venu0807/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/venu0807/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/venu0807/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/venu0807/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venu0807/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/venu0807/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1486-xor-operation-in-an-array](https://github.com/venu0807/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/venu0807/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
