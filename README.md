@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/venu0807/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/venu0807/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/venu0807/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/venu0807/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/venu0807/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
