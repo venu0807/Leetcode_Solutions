@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/venu0807/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/venu0807/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/venu0807/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/venu0807/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/venu0807/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/venu0807/Leetcode/tree/master/0097-interleaving-string) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/venu0807/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venu0807/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/venu0807/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
