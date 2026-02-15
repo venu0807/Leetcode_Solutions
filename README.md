@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/venu0807/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/venu0807/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/venu0807/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/venu0807/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venu0807/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search Tree
 |  |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Trie
 |  |
 | ------- |
