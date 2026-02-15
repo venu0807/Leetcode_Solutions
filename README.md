@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/venu0807/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/venu0807/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/venu0807/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/venu0807/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/venu0807/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/venu0807/Leetcode/tree/master/0097-interleaving-string) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/venu0807/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/venu0807/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/venu0807/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/venu0807/Leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/venu0807/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/venu0807/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/venu0807/Leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/venu0807/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/venu0807/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/venu0807/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/venu0807/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
