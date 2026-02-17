@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/venu0807/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/venu0807/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/venu0807/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/venu0807/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/venu0807/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venu0807/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
