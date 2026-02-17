@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/venu0807/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/venu0807/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/venu0807/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/venu0807/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
