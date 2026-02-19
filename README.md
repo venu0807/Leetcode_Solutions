@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/venu0807/Leetcode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/venu0807/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/venu0807/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/venu0807/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/venu0807/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0649-dota2-senate](https://github.com/venu0807/Leetcode/tree/master/0649-dota2-senate) |
+| [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/venu0807/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/venu0807/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/venu0807/Leetcode/tree/master/1108-defanging-an-ip-address) |
