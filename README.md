@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/venu0807/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0649-dota2-senate](https://github.com/venu0807/Leetcode/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/venu0807/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1078-remove-outermost-parentheses](https://github.com/venu0807/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/venu0807/Leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/venu0807/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/venu0807/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venu0807/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/venu0807/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
