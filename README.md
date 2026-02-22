@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/venu0807/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/venu0807/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/venu0807/Leetcode/tree/master/0868-binary-gap) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/venu0807/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/venu0807/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
