@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/venu0807/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/venu0807/Leetcode/tree/master/2363-merge-similar-items) |
+| [2404-most-frequent-even-element](https://github.com/venu0807/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/venu0807/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/venu0807/Leetcode/tree/master/2325-decode-the-message) |
 | [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/venu0807/Leetcode/tree/master/2363-merge-similar-items) |
+| [2404-most-frequent-even-element](https://github.com/venu0807/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/venu0807/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/venu0807/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/venu0807/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2404-most-frequent-even-element](https://github.com/venu0807/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Counting Sort
 |  |
 | ------- |
