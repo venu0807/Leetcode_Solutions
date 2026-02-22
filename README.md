@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/venu0807/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/venu0807/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/venu0807/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/venu0807/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/venu0807/Leetcode/tree/master/0414-third-maximum-number) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
 | [1079-letter-tile-possibilities](https://github.com/venu0807/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/venu0807/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/venu0807/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/venu0807/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
@@ -590,11 +595,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -682,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
