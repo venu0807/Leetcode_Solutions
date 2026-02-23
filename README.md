@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/venu0807/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venu0807/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/venu0807/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/venu0807/Leetcode/tree/master/0198-house-robber) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/venu0807/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/venu0807/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/venu0807/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/venu0807/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/venu0807/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
