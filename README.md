@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/venu0807/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/venu0807/Leetcode/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/venu0807/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/venu0807/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/venu0807/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0901-online-stock-span](https://github.com/venu0807/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/venu0807/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/venu0807/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/venu0807/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/venu0807/Leetcode/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venu0807/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/venu0807/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/venu0807/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
