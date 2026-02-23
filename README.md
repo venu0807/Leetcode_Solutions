@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/venu0807/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/venu0807/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/venu0807/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/venu0807/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/venu0807/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/venu0807/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/venu0807/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/venu0807/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/venu0807/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/venu0807/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/venu0807/Leetcode/tree/master/0451-sort-characters-by-frequency) |
