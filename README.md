@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/venu0807/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/venu0807/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/venu0807/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/venu0807/Leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/venu0807/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/venu0807/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/venu0807/Leetcode/tree/master/0389-find-the-difference) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/venu0807/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/venu0807/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/venu0807/Leetcode/tree/master/0319-bulb-switcher) |
 | [0380-insert-delete-getrandom-o1](https://github.com/venu0807/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/venu0807/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/venu0807/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/venu0807/Leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/venu0807/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/venu0807/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/venu0807/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/venu0807/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/venu0807/Leetcode/tree/master/0394-decode-string) |
