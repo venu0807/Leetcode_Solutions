@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/venu0807/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/venu0807/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/venu0807/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/venu0807/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venu0807/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venu0807/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/venu0807/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/venu0807/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/venu0807/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/venu0807/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/venu0807/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/venu0807/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/venu0807/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/venu0807/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
