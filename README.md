@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/venu0807/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/venu0807/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venu0807/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/venu0807/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/venu0807/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/venu0807/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/venu0807/Leetcode/tree/master/0046-permutations) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/venu0807/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/venu0807/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/venu0807/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/venu0807/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/venu0807/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/venu0807/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/venu0807/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/venu0807/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
