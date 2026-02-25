@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
+| [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/venu0807/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/venu0807/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/venu0807/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/venu0807/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/venu0807/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/venu0807/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/venu0807/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venu0807/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
