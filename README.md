@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/venu0807/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venu0807/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/venu0807/Leetcode/tree/master/0942-di-string-match) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/venu0807/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/venu0807/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/venu0807/Leetcode/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/venu0807/Leetcode/tree/master/0942-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/venu0807/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/venu0807/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/venu0807/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
+| [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/venu0807/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venu0807/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
