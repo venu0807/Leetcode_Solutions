@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-where-will-the-ball-fall](https://github.com/venu0807/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/venu0807/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venu0807/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/venu0807/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/venu0807/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1268-search-suggestions-system](https://github.com/venu0807/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venu0807/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venu0807/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/venu0807/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/venu0807/Leetcode/tree/master/0868-binary-gap) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/venu0807/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/venu0807/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/venu0807/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venu0807/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/venu0807/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/venu0807/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/venu0807/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/venu0807/Leetcode/tree/master/2404-most-frequent-even-element) |
 ## Counting Sort
