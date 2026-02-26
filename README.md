@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/venu0807/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/venu0807/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/venu0807/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/venu0807/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/venu0807/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/venu0807/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/venu0807/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
