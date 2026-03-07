@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/venu0807/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/venu0807/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/venu0807/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/venu0807/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/venu0807/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1023-camelcase-matching](https://github.com/venu0807/Leetcode/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/venu0807/Leetcode/tree/master/1046-last-stone-weight) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/venu0807/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/venu0807/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/venu0807/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/venu0807/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/venu0807/Leetcode/tree/master/1268-search-suggestions-system) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
