@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/venu0807/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/venu0807/Leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/venu0807/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venu0807/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/venu0807/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/venu0807/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/venu0807/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/venu0807/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/venu0807/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
