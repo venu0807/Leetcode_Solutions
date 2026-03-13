@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/venu0807/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/venu0807/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venu0807/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/venu0807/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venu0807/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/venu0807/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/venu0807/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/venu0807/Leetcode/tree/master/1268-search-suggestions-system) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/venu0807/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venu0807/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/venu0807/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venu0807/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/venu0807/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3516-find-closest-person](https://github.com/venu0807/Leetcode/tree/master/3516-find-closest-person) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venu0807/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/venu0807/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/venu0807/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Quickselect
 |  |
 | ------- |
