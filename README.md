@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/venu0807/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/venu0807/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/venu0807/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1622-fancy-sequence](https://github.com/venu0807/Leetcode/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/venu0807/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venu0807/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/venu0807/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/venu0807/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/venu0807/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/venu0807/Leetcode/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/venu0807/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Memoization
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/venu0807/Leetcode/tree/master/1622-fancy-sequence) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/venu0807/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph Theory
