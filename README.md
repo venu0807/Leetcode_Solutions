@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/venu0807/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1695-maximum-erasure-value](https://github.com/venu0807/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/venu0807/Leetcode/tree/master/1720-decode-xored-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/venu0807/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/venu0807/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/venu0807/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venu0807/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/venu0807/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venu0807/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/venu0807/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2363-merge-similar-items](https://github.com/venu0807/Leetcode/tree/master/2363-merge-similar-items) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venu0807/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/venu0807/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/venu0807/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/venu0807/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/venu0807/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
