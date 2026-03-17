@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/venu0807/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venu0807/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/venu0807/Leetcode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/venu0807/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/venu0807/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venu0807/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/venu0807/Leetcode/tree/master/0189-rotate-array) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/venu0807/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/venu0807/Leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/venu0807/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/venu0807/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/venu0807/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/venu0807/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/venu0807/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/venu0807/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/venu0807/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/venu0807/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1002,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/venu0807/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/venu0807/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/venu0807/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/venu0807/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/venu0807/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
