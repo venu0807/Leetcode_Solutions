@@ -917,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/venu0807/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/venu0807/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/venu0807/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/venu0807/Leetcode/tree/master/0224-basic-calculator) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/venu0807/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/venu0807/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/venu0807/Leetcode/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/venu0807/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
