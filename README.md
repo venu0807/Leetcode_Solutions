@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/venu0807/Leetcode/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/venu0807/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/venu0807/Leetcode/tree/master/1023-camelcase-matching) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/venu0807/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/venu0807/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/venu0807/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/venu0807/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venu0807/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/venu0807/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/venu0807/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1528-shuffle-string](https://github.com/venu0807/Leetcode/tree/master/1528-shuffle-string) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venu0807/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/venu0807/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/venu0807/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/venu0807/Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/venu0807/Leetcode/tree/master/1268-search-suggestions-system) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/venu0807/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venu0807/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/venu0807/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/venu0807/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/venu0807/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
