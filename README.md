@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/venu0807/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/venu0807/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/venu0807/Leetcode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/venu0807/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venu0807/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/venu0807/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/venu0807/Leetcode/tree/master/0198-house-robber) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venu0807/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/venu0807/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/venu0807/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/venu0807/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venu0807/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/venu0807/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/venu0807/Leetcode/tree/master/0134-gas-station) |
