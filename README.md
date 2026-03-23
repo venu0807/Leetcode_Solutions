@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/venu0807/Leetcode/tree/master/1023-camelcase-matching) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/venu0807/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/venu0807/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/venu0807/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/venu0807/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venu0807/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1816-truncate-sentence](https://github.com/venu0807/Leetcode/tree/master/1816-truncate-sentence) |
 | [1829-maximum-xor-for-each-query](https://github.com/venu0807/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/venu0807/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/venu0807/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/venu0807/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venu0807/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/venu0807/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/venu0807/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/venu0807/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venu0807/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/venu0807/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/venu0807/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2363-merge-similar-items](https://github.com/venu0807/Leetcode/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
