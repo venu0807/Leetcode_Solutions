@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/venu0807/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/venu0807/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venu0807/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/venu0807/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venu0807/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/venu0807/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/venu0807/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venu0807/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/venu0807/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/venu0807/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/venu0807/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/venu0807/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venu0807/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/venu0807/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3643-flip-square-submatrix-vertically](https://github.com/venu0807/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
