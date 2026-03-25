@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venu0807/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/venu0807/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venu0807/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venu0807/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venu0807/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/venu0807/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/venu0807/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/venu0807/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/venu0807/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/venu0807/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venu0807/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venu0807/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/venu0807/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1212-sequential-digits](https://github.com/venu0807/Leetcode/tree/master/1212-sequential-digits) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/venu0807/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venu0807/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Stack
 |  |
 | ------- |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venu0807/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/venu0807/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/venu0807/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/venu0807/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Design
 |  |
