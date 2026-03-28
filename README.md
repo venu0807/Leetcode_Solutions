@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/venu0807/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3146-permutation-difference-between-two-strings](https://github.com/venu0807/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/venu0807/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venu0807/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/venu0807/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/venu0807/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/venu0807/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/venu0807/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Array
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venu0807/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/venu0807/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/venu0807/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/venu0807/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/venu0807/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/venu0807/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2542-maximum-subsequence-score](https://github.com/venu0807/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venu0807/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1054,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/venu0807/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/venu0807/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2352-equal-row-and-column-pairs](https://github.com/venu0807/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/venu0807/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venu0807/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1218,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/venu0807/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/venu0807/Leetcode/tree/master/0547-number-of-provinces) |
+| [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venu0807/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
