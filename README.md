@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/venu0807/Leetcode/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/venu0807/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/venu0807/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/venu0807/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/venu0807/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/venu0807/Leetcode/tree/master/3280-convert-date-to-binary) |
