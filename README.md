@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/venu0807/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/venu0807/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/venu0807/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/venu0807/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/venu0807/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/venu0807/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/venu0807/Leetcode/tree/master/0724-find-pivot-index) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/venu0807/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/venu0807/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/venu0807/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/venu0807/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venu0807/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/venu0807/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/venu0807/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/venu0807/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/venu0807/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/venu0807/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1057,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/venu0807/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/venu0807/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/venu0807/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0695-max-area-of-island](https://github.com/venu0807/Leetcode/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/venu0807/Leetcode/tree/master/0994-rotting-oranges) |
@@ -1236,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/venu0807/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/venu0807/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/venu0807/Leetcode/tree/master/0695-max-area-of-island) |
 | [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venu0807/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venu0807/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
