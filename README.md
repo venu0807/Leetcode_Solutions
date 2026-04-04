@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/venu0807/Leetcode/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [1980-find-unique-binary-string](https://github.com/venu0807/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/venu0807/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/venu0807/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/venu0807/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/venu0807/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/venu0807/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -978,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/venu0807/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/venu0807/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/venu0807/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/venu0807/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/venu0807/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/venu0807/Leetcode/tree/master/2169-simple-bank-system) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/venu0807/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
