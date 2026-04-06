@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/venu0807/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/venu0807/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/venu0807/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/venu0807/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/venu0807/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/venu0807/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/venu0807/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/venu0807/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0874-walking-robot-simulation](https://github.com/venu0807/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venu0807/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/venu0807/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0929-unique-email-addresses](https://github.com/venu0807/Leetcode/tree/master/0929-unique-email-addresses) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/venu0807/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/venu0807/Leetcode/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/venu0807/Leetcode/tree/master/0832-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/venu0807/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/venu0807/Leetcode/tree/master/0898-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/venu0807/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1324-where-will-the-ball-fall](https://github.com/venu0807/Leetcode/tree/master/1324-where-will-the-ball-fall) |
