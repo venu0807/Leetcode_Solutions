@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/venu0807/Leetcode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/venu0807/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/venu0807/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/venu0807/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venu0807/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/venu0807/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/venu0807/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -1286,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/venu0807/Leetcode/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/venu0807/Leetcode/tree/master/1023-camelcase-matching) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/venu0807/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Minimum Spanning Tree
