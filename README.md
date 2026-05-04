@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-where-will-the-ball-fall](https://github.com/venu0807/Leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/venu0807/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venu0807/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/venu0807/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/venu0807/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/venu0807/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/venu0807/Leetcode/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/venu0807/Leetcode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/venu0807/Leetcode/tree/master/1268-search-suggestions-system) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/venu0807/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/venu0807/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/venu0807/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2336-smallest-number-in-infinite-set](https://github.com/venu0807/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
