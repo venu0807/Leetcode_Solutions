@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/venu0807/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/venu0807/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/venu0807/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/venu0807/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/venu0807/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/venu0807/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3660-jump-game-ix](https://github.com/venu0807/Leetcode/tree/master/3660-jump-game-ix) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/venu0807/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venu0807/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/venu0807/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/venu0807/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3668-restore-finishing-order](https://github.com/venu0807/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/venu0807/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/venu0807/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venu0807/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/venu0807/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3516-find-closest-person](https://github.com/venu0807/Leetcode/tree/master/3516-find-closest-person) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/venu0807/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venu0807/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/venu0807/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/venu0807/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/venu0807/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/venu0807/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/venu0807/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venu0807/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -1192,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/venu0807/Leetcode/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/venu0807/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/venu0807/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venu0807/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/venu0807/Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
