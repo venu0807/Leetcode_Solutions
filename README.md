@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/venu0807/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/venu0807/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/venu0807/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/venu0807/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/venu0807/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/venu0807/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/venu0807/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/venu0807/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/venu0807/Leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [2751-robot-collisions](https://github.com/venu0807/Leetcode/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/venu0807/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/venu0807/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/venu0807/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/venu0807/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
